@@ -19,4 +19,4 @@ Getting the app to run is pretty easy, just follow the script below!
 ![Demo on Video](https://github.com/congmingdeyezi/image_stitching/blob/main/demo/after.png "Demonstration")
 
 ## References
-[Automatic Panoramic Image Stitching using Invariant Features](https://www.cs.bath.ac.uk/brown/papers/ijcv2007.pdf)
+[Image stitching](https://en.wikipedia.org/wiki/Image_stitching#Applications)
