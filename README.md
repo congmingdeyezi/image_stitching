@@ -8,8 +8,9 @@ Getting the app to run is pretty easy, just follow the script below! This script
  git clone https://github.com/congmingdeyezi/image_stitching.git && cd image_stitching
 
  # install deps
- make install
-
+ conda create -n image_scitiching python=3.6
+ conda activate image_scitiching
+ pip install requirements.txt
  # Run the algorithm!
  python image_stitching.py <path to image directory> --display --save
 ```
