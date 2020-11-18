@@ -10,7 +10,7 @@ Getting the app to run is pretty easy, just follow the script below!
  # install deps
  conda create -n image_scitiching python=3.6
  conda activate image_scitiching
- pip install requirements.txt
+ pip install -U -r requirements.txt
  # Run the algorithm!
  python image_stitching.py <path to image directory> --display --save
 ```
