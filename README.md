@@ -15,8 +15,5 @@ Getting the app to run is pretty easy, just follow the script below!
  python image_stitching.py <path to image directory> --display --save
 ```
 
-## Demonstration
-![Demo on Video](https://github.com/congmingdeyezi/image_stitching/blob/main/demo/after.png "Demonstration")
-
 ## References
 [Image stitching](https://en.wikipedia.org/wiki/Image_stitching#Applications)
